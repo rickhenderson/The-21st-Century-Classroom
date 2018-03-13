@@ -41,8 +41,37 @@ With shared responsibility, make decsions together, students will need to have t
 #### Shared responsiblity
 When students work together to develop a common product, design, or response
 * More then just helping each other
-* Students must mutually own the work
+* Students must collectively own the work and be mutually responsible
 
+Is this shared responsibilty?
+* students conduct a lab experiment together
+* give each other feedback
+* a student works with a peer in another country to develop a web site
+* a student interviews a peer in another country about the local weather
+
+Feedback? One student owns the work. How could this task be redesigned?
+
+#### Making Substantive Decisions Together
+
+Content, Process, or Product
+
+* Academic content of work they create
+* Process: They muyst plan, choose tools, and define roles
+* Product: fundamental design descisions about the product they are working on
+
+Working in teams to prepare a debate and decide which side of the debate to take?
+Choose which animal they will choose to study?
+Deciding on their own roles?
+Team members assigns roles?
+Pairs of students select a colour scheme?
+
+#### Interdependent Work
+* In practice, work is not divided fairly
+* Students must be required to produce and **interdependent** product
+* Or interdependent outcomes: distributing information across all students
+
+#### Individual Accountability
+* 
 
 
 
