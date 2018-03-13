@@ -71,7 +71,15 @@ Pairs of students select a colour scheme?
 * Or interdependent outcomes: distributing information across all students
 
 #### Individual Accountability
-* 
+* Each member is responsible for a task that he/she must complete
+* Also group accountability: negotiate and agree on process, design, and conclusions of their work
+
+Each student a page? Not interdependent.
+
+Only if students work contribute together.
+
+**Classroom idea**: Students work together to create a webpage about the history, culture, attractions, or accomodations of their local area that will be linked to the class homepage? Or city webpage?
+
 
 
 
