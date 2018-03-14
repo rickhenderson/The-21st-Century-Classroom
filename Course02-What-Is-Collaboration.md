@@ -84,7 +84,7 @@ Only if students work contribute together.
 * A visual way to represent the definition of an idea or topic.
 * Provides a framework
 
-Students are required to work in groups?
+Students are required to work in groups or pairs?
 Students have shared responsibilty?
 Students make substantive decisions together?
 Students' work is interdependent?
@@ -102,6 +102,8 @@ Ie. If an exercise fulfills all 4 qualities, the exercise is coded as a 5.
 Example of 5: students working on different posters, working in groups, posting them all together, working on different types of activities...since footage was not in English, it was difficult to tell what was going on. Sound became very choppy at the end.
 
 ## Collaboration Anchor Lessons
+
+*Exercise: Review some Anchor Lessons and assign a collaboration code to them. Ex. The House on Mango Street, Mr. Sun E. Day,*
 
 
 
