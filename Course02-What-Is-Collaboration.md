@@ -97,6 +97,14 @@ Is the group required to work in pairs? No -> 1
 
 <img src="decision tree.png" />
 
+Basically, receive 1 point for each step in the decsision.
+Ie. If an exercise fulfills all 4 qualities, the exercise is coded as a 5.
+Example of 5: students working on different posters, working in groups, posting them all together, working on different types of activities...since footage was not in English, it was difficult to tell what was going on. Sound became very choppy at the end.
+
+## Collaboration Anchor Lessons
+
+
+
 
 
 
