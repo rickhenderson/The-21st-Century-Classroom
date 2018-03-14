@@ -80,6 +80,25 @@ Only if students work contribute together.
 
 **Classroom idea**: Students work together to create a webpage about the history, culture, attractions, or accomodations of their local area that will be linked to the class homepage? Or city webpage?
 
+## Decision Tree and Rubrics
+* A visual way to represent the definition of an idea or topic.
+* Provides a framework
+
+Students are required to work in groups?
+Students have shared responsibilty?
+Students make substantive decisions together?
+Students' work is interdependent?
+
+Include learning activites at all levels over the year. Use *planned* learning outcomes.
+
+The number is a code, not a score or value judgement.
+
+Is the group required to work in pairs? No -> 1
+
+<img src="decision tree.png" />
+
+
+
 
 
 
