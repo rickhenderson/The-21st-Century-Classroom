@@ -113,16 +113,27 @@ The descision tree can also be represented as a rubric. Decide which one you lik
 * A case study of 35 children in grades 2 & 3 to create a presentation and action task on the human body and present them at a learning fair. By Paula Vorne, Finland.
 
 Here are some of the items the teachers (& students!) decided should be the learning outcomes:
-
 * Cooperation in groups
 * Self regulation
 * Creativity
 * Learning new knowledge
 * Learning how to use new Windows tablets
 * Learning how to use Office 365, especially OneNote
-
 * Groups wrote into a class OneNote book created by the students.
 * Older / more able students helped the younger / less able students.
 
+## Collaboration in action in your classroom
+(Lesson 6)
+Questions to think about:
+* Think of a collaborative learning activity you will be teaching in the next week or two, can you code it for collaboration?
+* If you didn't code it a 5, how could you redesign the learning activity to add the needed skills (i.e substantive decision making, interdependence, etc.)?
 
-
+* We've used a shared definition of **collaboration**, an important 21<sup>st</sup> skill.
+* Plan a collaborative, interdependent learning task for an upcoming course
+* How can you design learning activities so that students can work in pairs or groups?
+  ** Create a car lease/purchase decision app: Break into groups (ESL students) and try to balance those with lots of skill with students with less skills or language strength.
+* How can you design a learning activity so studens can shared responsibility, substantive decisions etc?
+  ** Post your learning activity to the learning forum and ask for feedback. Give feedback for 3 other learning activties.
+  ** Reflect on feedback. Try it in classroom. What worked? What didn't work?
+  
+Can you make it better?
