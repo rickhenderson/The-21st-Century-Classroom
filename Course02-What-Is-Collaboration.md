@@ -109,8 +109,15 @@ The descision tree can also be represented as a rubric. Decide which one you lik
 
 ## Collaboration In Action
 (Lesson 5)
-A case study of 35 children in grades 2 & 3 to create a presentation and action task on the human body and present them at a learning fair.
 
+* A case study of 35 children in grades 2 & 3 to create a presentation and action task on the human body and present them at a learning fair.
+
+* Cooperation in groups
+* Self regulation
+* Creativity
+* Learning new knowledge
+* Learning how to use new Windows tablets
+* Learning how to use Office 365, especially OneNote
 
 
 
