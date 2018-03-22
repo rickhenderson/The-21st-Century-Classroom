@@ -72,6 +72,8 @@ Pairs of students select a colour scheme?
 
 #### Individual Accountability
 * Each member is responsible for a task that he/she must complete
+* The role of each student is essential
+* Need to be clear about what collaboration means
 * Also group accountability: negotiate and agree on process, design, and conclusions of their work
 
 Each student a page? Not interdependent.
