@@ -108,11 +108,11 @@ Example of 5: students working on different posters, working in groups, posting 
 The descision tree can also be represented as a rubric. Decide which one you like the most and works best for you.
 
 ## Collaboration In Action
-(Lesson 5)
+(Lesson 5 - {ed. I should watch this again})
 
-* A case study of 35 children in grades 2 & 3 to create a presentation and action task on the human body and present them at a learning fair.
+* A case study of 35 children in grades 2 & 3 to create a presentation and action task on the human body and present them at a learning fair. By Paula Vorne, Finland.
 
-Here are some of the items the teachers decided should be the learning outcomes:
+Here are some of the items the teachers (& students!) decided should be the learning outcomes:
 * Cooperation in groups
 * Self regulation
 * Creativity
@@ -120,7 +120,8 @@ Here are some of the items the teachers decided should be the learning outcomes:
 * Learning how to use new Windows tablets
 * Learning how to use Office 365, especially OneNote
 
-
+* Groups wrote into a class OneNote book created by the students.
+* Older / more able students helped the younger / less able students.
 
 
 
