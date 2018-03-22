@@ -102,10 +102,14 @@ Ie. If an exercise fulfills all 4 qualities, the exercise is coded as a 5.
 Example of 5: students working on different posters, working in groups, posting them all together, working on different types of activities...since footage was not in English, it was difficult to tell what was going on. Sound became very choppy at the end.
 
 ## Collaboration Anchor Lessons
-
+(Lesson 4)
 *Exercise: Review some Anchor Lessons and assign a collaboration code to them. Ex. The House on Mango Street, Mr. Sun E. Day,*
 
+The descision tree can also be represented as a rubric. Decide which one you like the most and works best for you.
 
+## Collaboration In Action
+(Lesson 5)
+A case study of 35 children in grades 2 & 3 to create a presentation and action task on the human body and present them at a learning fair.
 
 
 
