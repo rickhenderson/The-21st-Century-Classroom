@@ -137,3 +137,5 @@ Questions to think about:
   ** Reflect on feedback. Try it in classroom. What worked? What didn't work?
   
 Can you make it better?
+
+For tips and inspiration, visit <a href="https://education.microsoft.com">education.microsoft.com</a>.
